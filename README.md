@@ -13,6 +13,7 @@ An eCommerce application built using the MERN stack (MongoDB, Express.js, React.
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
@@ -102,8 +103,30 @@ ecommerce-website/
 │   │   ├── index.js
 │   │   └── [Other frontend-related files]
 └── README.md
+```
 
-# Screenshots
+## Technologies Used
+
+- **Frontend:** React.js, Redux, HTML, CSS, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Authentication:** JSON Web Tokens (JWT)
+- **Other Tools:** Git, GitHub
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any inquiries or questions, please contact me at:
+- **Email:** [divyanshsaini.mzn@gmail.com](mailto:divyanshsaini.mzn@gmail.com)
+
+## Screenshots
+
 ![Screenshot 2024-08-18 234543](https://github.com/user-attachments/assets/d1b043d7-c938-46bc-9663-86cf1431343e)
 ![Screenshot 2024-08-18 234608](https://github.com/user-attachments/assets/fec53ce3-28d9-4c6c-9944-455801e23601)
 ![Screenshot 2024-08-18 234723](https://github.com/user-attachments/assets/82e36a70-2d5e-434a-b548-f545c9f1691c)
