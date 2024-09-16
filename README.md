@@ -1,4 +1,4 @@
-# eCommerce Website
+# Shopper
 
 An eCommerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project includes features like product browsing, cart management, order processing, and user authentication.
 
